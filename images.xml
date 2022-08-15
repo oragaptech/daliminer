@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImagesInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1</Version>
+  <Count>39</Count>
+  <Categories>
+    <ImageCategory>
+      <Name>PRIMERA GENERACION</Name>
+      <ImagePath>Categories/hs-huzzah-emoji_beer.png</ImagePath>
+    </ImageCategory>
+    <ImageCategory>
+      <Name>SEGUNDA GENERACION</Name>
+      <ImagePath>Categories/hs-huzzah-emoji_cappuccino.png</ImagePath>
+    </ImageCategory>
+    <ImageCategory>
+      <Name>TERCERA GENERACION</Name>
+      <ImagePath>Categories/hs-huzzah-emoji_cheers.png</ImagePath>
+    </ImageCategory>
+  </Categories>
+  <Images>
+    <ImageInfo>
+      <Name>7</Name>
+      <Id>eb3f6e8f033a1e4adb497e8b2013238a</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/eb3f6e8f033a1e4adb497e8b2013238a.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>35</Name>
+      <Id>a005c9af2889a32f24d0200984920145</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/a005c9af2889a32f24d0200984920145.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>1</Name>
+      <Id>64117f437417e3eea20291f16fcc0300</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/64117f437417e3eea20291f16fcc0300.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>30</Name>
+      <Id>52e00195f535a56e193040a4320bbb70</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/52e00195f535a56e193040a4320bbb70.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>29</Name>
+      <Id>35769f1b30cc47a5b0fe1ff91d6c7310</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/35769f1b30cc47a5b0fe1ff91d6c7310.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>27</Name>
+      <Id>5ead3b513df437caf7d22aaad1031573</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/5ead3b513df437caf7d22aaad1031573.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>17</Name>
+      <Id>6a8b958906575cda6d3ed241001b5024</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/6a8b958906575cda6d3ed241001b5024.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>39</Name>
+      <Id>4fedf55a8c2a94591f01080c241cd784</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/4fedf55a8c2a94591f01080c241cd784.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>12</Name>
+      <Id>f3b599103e39897394fc860a6e76a06e</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/f3b599103e39897394fc860a6e76a06e.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>5</Name>
+      <Id>eabc85f4d0b90420139c5fda06231ae7</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/eabc85f4d0b90420139c5fda06231ae7.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>25</Name>
+      <Id>5e923d2b9f04d32eb99c66cb51916754</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/5e923d2b9f04d32eb99c66cb51916754.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>6</Name>
+      <Id>04055377cf0361c404a24f71fe77c129</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/04055377cf0361c404a24f71fe77c129.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>32</Name>
+      <Id>bb3824543a97121c25f9fa4484c7f371</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/bb3824543a97121c25f9fa4484c7f371.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>22</Name>
+      <Id>da8552b549d32cffe2af9fc9f1d7f13a</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/da8552b549d32cffe2af9fc9f1d7f13a.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>26</Name>
+      <Id>eca77746a723629d9c7830e80be6d335</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/eca77746a723629d9c7830e80be6d335.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>18</Name>
+      <Id>647671db8ecf5e994d549f350160ce65</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/647671db8ecf5e994d549f350160ce65.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>8</Name>
+      <Id>8ce41f7b38e3dcb161c5e071cde6c6bb</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/8ce41f7b38e3dcb161c5e071cde6c6bb.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>33</Name>
+      <Id>26c00de31baf6736d1932fbec8d43f18</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/26c00de31baf6736d1932fbec8d43f18.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>28</Name>
+      <Id>b9f47cbdfdc7a2d1f43c5f140ee4a2f7</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/b9f47cbdfdc7a2d1f43c5f140ee4a2f7.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>20</Name>
+      <Id>b3af281e626ce5fd25f09f0bb6953657</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/b3af281e626ce5fd25f09f0bb6953657.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>3</Name>
+      <Id>760f63ac091a0dea09e4e9f02af34519</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/760f63ac091a0dea09e4e9f02af34519.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>34</Name>
+      <Id>65a4bd02d0ae35e41ec9eaa95739052c</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/65a4bd02d0ae35e41ec9eaa95739052c.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>31</Name>
+      <Id>1a3a4e73cd037ec82fe3556877cda004</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/1a3a4e73cd037ec82fe3556877cda004.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>10</Name>
+      <Id>4e22b13f723263150edcf5a7dcff2c37</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/4e22b13f723263150edcf5a7dcff2c37.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>38</Name>
+      <Id>a08676820b3248f011a8819b4b8a89ce</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/a08676820b3248f011a8819b4b8a89ce.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>11</Name>
+      <Id>57b3ff4e04fbf800df1a581d87ec3ced</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/57b3ff4e04fbf800df1a581d87ec3ced.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>13</Name>
+      <Id>035612f8b05ff6e526c13c3bdba84f41</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/035612f8b05ff6e526c13c3bdba84f41.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>21</Name>
+      <Id>23787f0709348255391d7d5b69a839f4</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/23787f0709348255391d7d5b69a839f4.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>9</Name>
+      <Id>7b9b91b7816e94b5d5b04763cbc4bd1b</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/7b9b91b7816e94b5d5b04763cbc4bd1b.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>15</Name>
+      <Id>cbfdf213f28ac6919502fdeb2f8552b8</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/cbfdf213f28ac6919502fdeb2f8552b8.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>23</Name>
+      <Id>5636201b15a61f055ea357bdaed71b58</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/5636201b15a61f055ea357bdaed71b58.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>24</Name>
+      <Id>c897e301bda7726254151be5bfe01bcd</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/c897e301bda7726254151be5bfe01bcd.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>4</Name>
+      <Id>793627f0a60e985aa1f0ba2ae40e792d</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/793627f0a60e985aa1f0ba2ae40e792d.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>2</Name>
+      <Id>fa69e773b16de104149728580dbcc13a</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/fa69e773b16de104149728580dbcc13a.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>PRIMERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>19</Name>
+      <Id>e47f7d401c93909c0e4e7a8fcc53b21d</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/e47f7d401c93909c0e4e7a8fcc53b21d.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>16</Name>
+      <Id>6f70361ba2150d29d0f53930e22ce980</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/6f70361ba2150d29d0f53930e22ce980.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>37</Name>
+      <Id>ac1b9f95d8743c781de94c01d1481906</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/ac1b9f95d8743c781de94c01d1481906.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>TERCERA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>36</Name>
+      <Id>a989817929ea0a9b431226ec165497d9</Id>
+      <AccessStatus>Premium</AccessStatus>
+      <Url>2D/a989817929ea0a9b431226ec165497d9.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+    <ImageInfo>
+      <Name>14</Name>
+      <Id>72872a93828ae31b919bdec9f497fe7d</Id>
+      <AccessStatus>Free</AccessStatus>
+      <Url>2D/72872a93828ae31b919bdec9f497fe7d.png</Url>
+      <Is3D>false</Is3D>
+      <Source>gallery_2D</Source>
+      <Category>SEGUNDA GENERACION</Category>
+    </ImageInfo>
+  </Images>
+</ImagesInfo>
